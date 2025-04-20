@@ -1,5 +1,9 @@
 # Quantum vs Classical Simulation
 
+[![Play on itch.io](https://img.shields.io/badge/Play_on-Itch.io-red?style=for-the-badge&logo=itch-io)](https://tomili1979.itch.io/qww)
+
+--
+
 This is a simple simulation that demonstrates the conceptual difference between how a classical computer and a quantum computer might approach problem-solving.
 
 🧠 The simulation is entirely browser-based and written in basic python (without functions – built before I formally learned them). Despite its simplicity, it works as intended and runs on desktop browsers.
