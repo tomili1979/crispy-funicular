@@ -4,7 +4,7 @@
 
 --
 
-This is a simple simulation that demonstrates the conceptual difference between how a classical computer and a quantum computer might approach problem-solving.
+An interactive simple simulation-game that visually illustrates the conceptual difference between quantum and classical computing.
 
 🧠 The simulation is entirely browser-based and written in basic python (without functions – built before I formally learned them). Despite its simplicity, it works as intended and runs on desktop browsers.
 
@@ -25,7 +25,7 @@ and parallelism differ from step-by-step classical processing.
 
 ## 🚀 How to Run It
 
-- Download or clone the repository.
+- 🎮 **Play the Live Demo on itch.io:** [https://tomili1979.itch.io/qww](https://tomili1979.itch.io/qww)
 - Open `index.html` in any modern desktop browser.
 - Currently not optimized for mobile devices.
 
