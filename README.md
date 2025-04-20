@@ -1,6 +1,7 @@
 # Quantum vs Classical Simulation
 
 [![Play on itch.io](https://img.shields.io/badge/Play_on-Itch.io-red?style=for-the-badge&logo=itch-io)](https://tomili1979.itch.io/qww)
+Pay attention to the instructions below the game, only works on a browser on PC
 
 --
 
@@ -26,6 +27,7 @@ and parallelism differ from step-by-step classical processing.
 ## 🚀 How to Run It
 
 - 🎮 **Play the Live Demo on itch.io:** [https://tomili1979.itch.io/qww](https://tomili1979.itch.io/qww)
+- Pay attention to the instructions below the game, only works on a browser on PC
 - Open `index.html` in any modern desktop browser.
 - Currently not optimized for mobile devices.
 
