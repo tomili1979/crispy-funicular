@@ -15,7 +15,7 @@ and parallelism differ from step-by-step classical processing.
 
 ## 🖼️ Screenshot
 
-![Quantum vs Classical Simulation]([./screenshot.png](https://github.com/tomili1979/crispy-funicular/blob/main/Quantum%20vs%20Classical%20Simulation.png))
+![Quantum vs Classical Simulation](https://raw.githubusercontent.com/tomili1979/crispy-funicular/main/Quantum%20vs%20Classical%20Simulation.png)
 
 --
 
